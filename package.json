@@ -1,21 +1,21 @@
 {
   "name": "goit-js-hw-08",
-  "version": "2.0.0",
-  "description": "Acest proiect a fost creat cu ajutorul Parcel. Pentru familiarizare și configurarea funcțiilor suplimentare [consultați documentația](https://parceljs.org/).",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://roxananecsoi.github.io/goit-js-hw-08-",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08-/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/roxananecsoi/goit-js-hw-08-"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "Necsoi Roxana <radu.roxana07@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://github.com/roxananecsoi/goit-js-hw-08-/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
@@ -30,6 +30,5 @@
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
-  "browserslist": "> 0.5%, last 2 versions, not dead",
-  "main": "index.js"
+  "browserslist": "> 0.5%, last 2 versions, not dead"
 }
